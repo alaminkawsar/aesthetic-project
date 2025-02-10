@@ -1,2 +1,4 @@
 *.mp4
 data
+temp
+__pycache__
